@@ -1,6 +1,6 @@
 # `vis`
 
-Batch-based image calculations and transformations for the [SPM brain image analysis package](https://www.fil.ion.ucl.ac.uk/spm/).
+Visualized exploratory data analysis tools for functional or structural 3-D brain volumes; for use with the [SPM](https://www.fil.ion.ucl.ac.uk/spm/) analysis suite.
 
 FOR CURRENT VERSION: http://tools.robjellis.net
 
