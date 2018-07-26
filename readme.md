@@ -7,5 +7,5 @@ For CURRENT VERSION, please visit [here](http://tools.robjellis.net).
 For documentation, see [here](http://robjellis.net/tools/vis_documentation.pdf).
 
 ## Sample output
-<img src = "vis_example.jpg">
+<img src = "vis_example.png">
 
